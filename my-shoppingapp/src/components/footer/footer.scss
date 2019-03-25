@@ -1,0 +1,9 @@
+@import '../../style/mixin.scss';
+@import '../../assets/iconfont/iconfont.css';
+
+.footer-contain{
+  z-index: 100;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+}

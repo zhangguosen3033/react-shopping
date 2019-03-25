@@ -1,10 +1,12 @@
 import React, { Component } from "react";
+import Footer from "../../components/footer/footer";
 
 class Shop extends Component {
   render() {
     return (
       <div>
-        <h2>hi  shop</h2>
+        <h4>hi  shop</h4>
+        <Footer></Footer>
       </div>
     )
   }

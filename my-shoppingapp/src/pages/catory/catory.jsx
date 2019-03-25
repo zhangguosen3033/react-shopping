@@ -1,10 +1,12 @@
 import React, { Component } from "react";
+import Footer from "../../components/footer/footer";
 
 class Catory extends Component {
   render() {
     return (
       <div>
-        <h2>hi  catory</h2>
+        <h4>hi  catory</h4>
+        <Footer></Footer>
       </div>
     )
   }
